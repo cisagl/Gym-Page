@@ -13,7 +13,7 @@ How to Use
 Clone the Repository:
 
 `
-git clone https://github.com/your-username/sport-center-website.git
+git clone https://github.com/cisagl/Gym-Page.git
 `
 
 
