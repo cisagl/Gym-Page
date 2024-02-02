@@ -9,9 +9,9 @@ Bootstrap 5.3.2
 Font Awesome 6.5.1
 JavaScript (linked from app.js)
 Google Maps API (for embedded maps)
-How to Use
-Clone the Repository:
 
+# How to Use
+Clone the Repository:
 `
 git clone https://github.com/cisagl/Gym-Page.git
 `
