@@ -17,6 +17,6 @@ git clone https://github.com/cisagl/Gym-Page.git
 `
 
 
-Open the Website:
+# Open the Website:
 
 Open the index.html file in a web browser to view the website.
